@@ -11,6 +11,6 @@ Esse projeto foi feito durante o *Next Level Week #04*, disponibilizado pela Roc
  - React
 
 ## Resultado 💻
-![Screenshot](https://github.com/SunnyUwU/Move.it/blob/master/public/Screenshot.jpeg?raw=true)
+<img src="https://github.com/SunnyUwU/Move.it/blob/master/public/Screenshot.jpeg" width=75% />
 ## Licença 📄
 Hospedado sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/SunnyUwU/Move.it/LICENSE) para mais detalhes.
