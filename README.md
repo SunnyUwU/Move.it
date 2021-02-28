@@ -14,4 +14,4 @@ Esse projeto foi feito durante o *Next Level Week #04*, disponibilizado pela Roc
 <img src="https://github.com/SunnyUwU/Move.it/blob/master/public/Screenshot.jpeg" width=75% />
 
 ## Licença 📄
-Hospedado sob a Licença MIT. Acesse o arquivo <a href="https://github.com/SunnyUwU/Move.it/LICENSE">LICENSE</a> para mais informações.
+Hospedado sob a Licença MIT. Acesse o arquivo <a href="https://github.com/SunnyUwU/Move.it/blob/master/LICENSE">LICENSE</a> para mais informações.
